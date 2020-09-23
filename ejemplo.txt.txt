@@ -3,3 +3,29 @@ hola
 yolyi. como estas ?
 
 bien hermano mio y tu?
+
+pasos para hacer comimit ::
+
+
+
+1. 
+//para ver que cambiaste
+git status .
+
+2. 
+//Para agregar archivos a ser tracked
+git add "nombre archivo" o "." ie
+
+git add archivo.txt
+git add .
+
+3. git commit -m "comenario"
+
+/para commitear el o los archivos
+
+4. git push para subir al repositorio central
+el paso 0
+es hacer 
+0. git pull
+
+//para bajr lo que existe
