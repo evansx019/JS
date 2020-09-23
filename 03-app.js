@@ -1,3 +1,5 @@
+yo lo cambie primero
+
 algoritmo bebe 1
     var array = [5,4,1,2,3];
     if (array[0]>array[1]){
