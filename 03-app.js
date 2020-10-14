@@ -20,7 +20,7 @@
 //     };
 
     //algoritmo bebe 2
-    alert('hola')
+    
 let numeros2= "";
 let numeros = [1,2,3,4,5,6]
 for (i=0; i<numeros.length; i++){
